@@ -1,0 +1,11 @@
+# Ignorar archivos de swap
+*.swp
+*.swo
+*.swm
+
+# Ignorar archivos de backup
+*.bak
+*.old
+
+# Ignorar archivos de intercambio
+.local/share/nvim/swap/*
